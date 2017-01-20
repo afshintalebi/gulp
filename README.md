@@ -1,3 +1,3 @@
 # gulp-training
 
-<p>This is a sample project for training gulp</p>
+<p>This is a sample project for learning gulp</p>
